@@ -1,2 +1,2 @@
 # classe.maker
-Générateur de plan de classe pour l'éducation
+Générateur de plan de classe pour l'éducation.
